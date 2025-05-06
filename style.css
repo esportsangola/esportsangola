@@ -755,7 +755,7 @@ footer p {
     .register-button {
         display: inline-block;
         padding: 0.5rem 1rem;
-        background: #ff4d4d;
+        background: #ffd700;
         color: white;
         text-decoration: none;
         border-radius: 5px;
@@ -767,7 +767,7 @@ footer p {
     }
 
     .register-button:hover {
-        background: #ff3333;
+        background: #ffd700;
     }
 
     /* Responsive Design for Events */
